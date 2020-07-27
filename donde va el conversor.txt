@@ -1,0 +1,1 @@
+colocar el conversor y .bat  en la carpeta c:\aa\soft\
